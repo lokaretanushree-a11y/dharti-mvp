@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/dhartilogo.tsx","./src/components/farmbackgroundimage.tsx","./src/constants/farmmedia.ts","./src/context/authcontext.tsx","./src/pages/analystdashboard.tsx","./src/pages/farmerdashboard.tsx","./src/pages/institutiondashboard.tsx","./src/pages/landing.tsx","./src/pages/login.tsx"],"version":"5.6.3"}
